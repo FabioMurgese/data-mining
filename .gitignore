@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.vscode
+notebook/Classification/logs/*
+
+notebook/Sequential Pattern Mining/__pycache__/
+
+notebook/Sequential Pattern Mining/.idea/
